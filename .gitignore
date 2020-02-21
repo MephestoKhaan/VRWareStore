@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+VRWareStore_Unity/Library/
+VRWareStore_Unity/Temp/
+VRWareStore_Unity/Logs/
